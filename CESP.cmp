@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by CvPcb (2014-01-27 BZR 4639)-product date = Fri 31 Jan 2014 18:01:53 GMT
+
+BeginCmp
+TimeStamp = /52E645F5;
+Reference = BT1;
+ValeurCmp = CR2032;
+IdModule  = CESP:CR2032_Batt_Holder;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E67099;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = SMD_Packages:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E67085;
+Reference = C2;
+ValeurCmp = 0.01uF;
+IdModule  = SMD_Packages:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E68B1E;
+Reference = D1;
+ValeurCmp = FDLL4148;
+IdModule  = Diodes_SMD:Diode-MiniMELF_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E66E7B;
+Reference = D2;
+ValeurCmp = Red LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E66E67;
+Reference = D3;
+ValeurCmp = Red LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E66E53;
+Reference = D4;
+ValeurCmp = Red LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E68063;
+Reference = D5;
+ValeurCmp = Green LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E6805D;
+Reference = D6;
+ValeurCmp = Green LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E68081;
+Reference = D7;
+ValeurCmp = Green LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E66301;
+Reference = Q1;
+ValeurCmp = PMBT3904YS;
+IdModule  = CESP:SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E64CD4;
+Reference = R1;
+ValeurCmp = 50K;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E67071;
+Reference = R2;
+ValeurCmp = 100K;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E66EF4;
+Reference = R3;
+ValeurCmp = 270R;
+IdModule  = SMD_Packages:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E66F08;
+Reference = R4;
+ValeurCmp = 270R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E66F1C;
+Reference = R5;
+ValeurCmp = 270R;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E68EA6;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E68069;
+Reference = R7;
+ValeurCmp = 220R;
+IdModule  = SMD_Packages:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E6806F;
+Reference = R8;
+ValeurCmp = 220R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E68075;
+Reference = R9;
+ValeurCmp = 220R;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E645B8;
+Reference = RV1;
+ValeurCmp = 100K;
+IdModule  = CESP:TRIM_SMD_SIDE_ADJ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E63AA9;
+Reference = RV2;
+ValeurCmp = 100K;
+IdModule  = CESP:TRIM_SMD_SIDE_ADJ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E6705D;
+Reference = RV3;
+ValeurCmp = 100K;
+IdModule  = CESP:TRIM_SMD_SIDE_ADJ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E662E2;
+Reference = U1;
+ValeurCmp = LM56;
+IdModule  = SMD_Packages:MSOP_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E686FB;
+Reference = U2;
+ValeurCmp = TLC555_14TSSOP;
+IdModule  = SSOP_Packages:SSOP-14;
+EndCmp
+
+EndListe
